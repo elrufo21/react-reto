@@ -1,4 +1,4 @@
-# 📬 Sistema de Mensajería Multicanal
+# 📬 Sistema de Mensajería 
 
 ## 📖 Descripción
 
@@ -28,8 +28,8 @@ Esta aplicación web permite enviar mensajes personalizados a usuarios a través
 1️⃣ Clona el repositorio:
 
 ```sh
- git clone https://github.com/tu-usuario/sistema-mensajeria-multicanal.git
- cd sistema-mensajeria-multicanal
+ git clone https://github.com/elrufo21/react-reto.git
+ cd react-reto
 ```
 
 2️⃣ Instala las dependencias:
